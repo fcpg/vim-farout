@@ -1,0 +1,1 @@
+/home/francoisc/vimprojects/vim-farout_build/farout.vim
