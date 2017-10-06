@@ -1,5 +1,5 @@
-Far Out - Vim Theme
-====================
+![Far Out](img/far_out.png)
+
 FarOut colorscheme for Vim:
 
 - Base16 theme for gvim and terminals supporting 24-bit colors
@@ -70,6 +70,11 @@ Resources
   - .Xresources
   - .minttyrc
   - .dir_colors
+
+Other Themes
+-------------
+- [Fahrenheit](https://github.com/fcpg/vim-fahrenheit)
+- [Orbital](https://github.com/fcpg/vim-orbital)
 
 License
 --------
