@@ -1,4 +1,4 @@
-let g:airline#themes#farout#palette  {}
+let g:airline#themes#farout#palette = {}
 
 let s:N1 = ['#F2A766', '#291916', 215, 234]
 let s:N2 = ['#A67458', '#291916', 137, 234]
