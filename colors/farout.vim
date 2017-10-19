@@ -65,7 +65,7 @@ if &t_Co >= 256 || has("gui_running")
     hi SpellCap ctermbg=234 ctermfg=NONE cterm=NONE guibg=#291916 guifg=NONE gui=NONE guisp=#A67458
     hi SpellLocal ctermbg=137 ctermfg=NONE cterm=NONE guibg=#A4895C guifg=NONE gui=NONE guisp=#A4895C
     hi SpellRare ctermbg=234 ctermfg=NONE cterm=NONE guibg=#291916 guifg=NONE gui=NONE guisp=#A67458
-    hi ColorColumn ctermbg=233 ctermfg=NONE cterm=NONE guibg=#1F1311 guifg=NONE gui=NONE
+    hi ColorColumn ctermbg=234 ctermfg=NONE cterm=NONE guibg=#1F1311 guifg=NONE gui=NONE
     hi signColumn ctermbg=bg ctermfg=137 cterm=NONE guibg=bg guifg=#A67458 gui=NONE
     hi ErrorMsg ctermbg=238 ctermfg=223 cterm=NONE guibg=#66292F guifg=#F2DDBC gui=NONE
     hi ModeMsg ctermbg=bg ctermfg=215 cterm=bold guibg=bg guifg=#F2A766 gui=bold
@@ -73,7 +73,7 @@ if &t_Co >= 256 || has("gui_running")
     hi Question ctermbg=bg ctermfg=215 cterm=NONE guibg=bg guifg=#F2A766 gui=NONE
     hi WarningMsg ctermbg=233 ctermfg=215 cterm=bold guibg=#1F1311 guifg=#F2A766 gui=bold
     hi Cursor ctermbg=137 ctermfg=233 cterm=NONE guibg=#A67458 guifg=#0F0908 gui=NONE
-    hi CursorColumn ctermbg=233 ctermfg=NONE cterm=NONE guibg=#1F1311 guifg=NONE gui=NONE
+    hi CursorColumn ctermbg=235 ctermfg=NONE cterm=NONE guibg=#1F1311 guifg=NONE gui=NONE
     hi Function ctermbg=bg ctermfg=130 cterm=NONE guibg=bg guifg=#BF472C gui=NONE
     hi Operator ctermbg=bg ctermfg=137 cterm=NONE guibg=bg guifg=#A67458 gui=NONE
     hi Delimiter ctermbg=bg ctermfg=137 cterm=NONE guibg=bg guifg=#A4895C gui=NONE
