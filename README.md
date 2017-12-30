@@ -3,7 +3,7 @@
 FarOut colorscheme for Vim:
 
 - Base16 theme for gvim and terminals supporting 24-bit colors
-- Simple, clean code created with [vim-rng](https://gist.github.com/5cd2f4ec222805f49eca.git)
+- Simple, clean code created with [RNB](https://gist.github.com/5cd2f4ec222805f49eca.git)
 - Airline, Lightline & CtrlP support out-of-the-box
 - That theme is so far out, can you dig it man?
 
@@ -41,6 +41,7 @@ Installation
   *  [Pathogen][1] - `git clone https://github.com/fcpg/vim-farout ~/.vim/bundle/vim-farout`
   *  [NeoBundle][2] - `NeoBundle 'fcpg/vim-farout'`
   *  [Vundle][3] - `Plugin 'fcpg/vim-farout'`
+  *  [Plug][4] - Plug 'fcpg/vim-complimentary'
   *  manual - copy all files into your `~/.vim` directory
 2. Append the following line to your .vimrc file:
 ```VimL
@@ -83,3 +84,4 @@ License
 [1]: https://github.com/tpope/vim-pathogen
 [2]: https://github.com/Shougo/neobundle.vim
 [3]: https://github.com/gmarik/vundle
+[4]: https://github.com/junegunn/vim-plug
