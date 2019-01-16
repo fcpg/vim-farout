@@ -41,7 +41,7 @@ Installation
   *  [Pathogen][1] - `git clone https://github.com/fcpg/vim-farout ~/.vim/bundle/vim-farout`
   *  [NeoBundle][2] - `NeoBundle 'fcpg/vim-farout'`
   *  [Vundle][3] - `Plugin 'fcpg/vim-farout'`
-  *  [Plug][4] - `Plug 'fcpg/vim-complimentary'`
+  *  [Plug][4] - `Plug 'fcpg/vim-farout'`
   *  manual - copy all files into your `~/.vim` directory
 2. Append the following line to your .vimrc file:
 ```VimL
